@@ -310,6 +310,4 @@ body {
     background: transparent; border: 2px solid var(--neon-cyan); color: var(--neon-cyan);
     padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s;
 }
-
 .neon-btn:hover { background: var(--neon-cyan); color: black; box-shadow: 0 0 30px var(--neon-cyan); }
-
