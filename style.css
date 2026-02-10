@@ -135,9 +135,9 @@ body {
 .game-card:hover { transform: translateY(-10px); border-color: var(--neon-cyan); box-shadow: 0 0 20px rgba(0,242,255,0.3); }
 
 
-.ps-card { background-image: url('a/ps.jpg'); }
-.model-card { background-image: url('a/b.jpg'); }
-.web-card { background-image: url('a/wd.jpg'); }
+.ps-card { background-image: url('ps.jpg'); }
+.model-card { background-image: url('b.jpg'); }
+.web-card { background-image: url('wd.jpg'); }
 
 
 
@@ -310,4 +310,5 @@ body {
     background: transparent; border: 2px solid var(--neon-cyan); color: var(--neon-cyan);
     padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s;
 }
+
 .neon-btn:hover { background: var(--neon-cyan); color: black; box-shadow: 0 0 30px var(--neon-cyan); }
